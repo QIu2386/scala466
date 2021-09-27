@@ -14,6 +14,7 @@ object test2 {
     val nameRDD: RDD[(Int, String)] = sc.parallelize(name)
     val scorerdd: RDD[(Int, Int)] = sc.parallelize(score)
     nameRDD.join(scorerdd).collect.foreach(println)
+
   }
 
 }
