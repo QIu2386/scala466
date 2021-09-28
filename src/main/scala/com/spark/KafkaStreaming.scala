@@ -24,7 +24,7 @@ object KafkaStreaming {
             Map("atguigu" -> 3)
         )
         kafkaDStream.count().print()
-
+//999
         // 将采集的数据进行分解（扁平化）
         val wordDStream: DStream[String] = kafkaDStream.flatMap(t=>t._2.split(" "))
 
