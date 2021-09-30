@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11661774-3084-4b6e-abc9-2e2ba5e8017a" name="Default" comment="" />
+    <list default="true" id="11661774-3084-4b6e-abc9-2e2ba5e8017a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -238,7 +240,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4770115" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.packagesearch.PackageSearchGeneralConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -425,14 +427,8 @@
       <workItem from="1632795962940" duration="3984000" />
       <workItem from="1632875076102" duration="4882000" />
       <workItem from="1632962183434" duration="595000" />
-      <workItem from="1632962811064" duration="317000" />
-    </task>
-    <task id="LOCAL-00022" summary="第3次提交">
-      <created>1626048832086</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1626048832086</updated>
+      <workItem from="1632962811064" duration="1008000" />
+      <workItem from="1632965870436" duration="85000" />
     </task>
     <task id="LOCAL-00023" summary="第3次提交">
       <created>1626137059895</created>
@@ -770,7 +766,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632810181288</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="第3次提交">
+      <created>1632963347926</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1632963347926</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -884,6 +887,10 @@
     <MESSAGE value="第2次提交" />
     <MESSAGE value="第3次提交" />
     <option name="LAST_COMMIT_MESSAGE" value="第3次提交" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
