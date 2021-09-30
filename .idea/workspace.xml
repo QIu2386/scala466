@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11661774-3084-4b6e-abc9-2e2ba5e8017a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/spark/SparkSql.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/spark/SparkSql.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,7 +235,6 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
@@ -240,9 +244,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4770115" />
-    <property name="settings.editor.selected.configurable" value="preferences.packagesearch.PackageSearchGeneralConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.scala" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Tong\Desktop\scala466\src\main\scala\com\mysql" />
       <recent name="C:\Users\Tong\Desktop\scala466\src\main\scala\com\scala\flume_UTILS" />
@@ -251,9 +258,6 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.spark" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.scala" />
     </key>
   </component>
   <component name="RunManager" selected="Application.test2">
@@ -347,19 +351,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.StreamWcApp" />
       <item itemvalue="Application._trait" />
       <item itemvalue="Application.seq_set_map" />
-      <item itemvalue="Application.wordcount" />
-      <item itemvalue="Application.StreamWcApp" />
       <item itemvalue="Application.test2" />
+      <item itemvalue="Application.wordcount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test2" />
-        <item itemvalue="Application.StreamWcApp" />
         <item itemvalue="Application.wordcount" />
+        <item itemvalue="Application.test2" />
         <item itemvalue="Application.seq_set_map" />
         <item itemvalue="Application._trait" />
+        <item itemvalue="Application.StreamWcApp" />
       </list>
     </recent_temporary>
   </component>
@@ -428,14 +432,9 @@
       <workItem from="1632875076102" duration="4882000" />
       <workItem from="1632962183434" duration="595000" />
       <workItem from="1632962811064" duration="1008000" />
-      <workItem from="1632965870436" duration="85000" />
-    </task>
-    <task id="LOCAL-00023" summary="第3次提交">
-      <created>1626137059895</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1626137059895</updated>
+      <workItem from="1632965870436" duration="1756000" />
+      <workItem from="1632967990461" duration="1161000" />
+      <workItem from="1632969182318" duration="950000" />
     </task>
     <task id="LOCAL-00024" summary="第3次提交">
       <created>1626140730933</created>
@@ -773,7 +772,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632963347926</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="第3次提交">
+      <created>1632966140342</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1632966140342</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
