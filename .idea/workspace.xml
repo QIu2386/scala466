@@ -7,11 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11661774-3084-4b6e-abc9-2e2ba5e8017a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/com/spark/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/spark/WordCount.scala" afterDir="false" />
-    </list>
+    <list default="true" id="11661774-3084-4b6e-abc9-2e2ba5e8017a" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,7 +243,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4770115" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -435,14 +431,7 @@
       <workItem from="1634524683692" duration="3492000" />
       <workItem from="1634718008461" duration="45000" />
       <workItem from="1634718083532" duration="13000" />
-      <workItem from="1635297993664" duration="522000" />
-    </task>
-    <task id="LOCAL-00026" summary="第3次提交">
-      <created>1627377515807</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1627377515807</updated>
+      <workItem from="1635297993664" duration="2019000" />
     </task>
     <task id="LOCAL-00027" summary="第4次提交">
       <created>1627458577111</created>
@@ -780,7 +769,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632970370753</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="第4次提交">
+      <created>1635298543514</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1635298543516</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -876,7 +872,6 @@
       <path value="$PROJECT_DIR$/src/main/scala/com/atguigu" />
     </ignored-roots>
     <MESSAGE value="第一次提交" />
-    <MESSAGE value="第4次提交" />
     <MESSAGE value="第5次提交" />
     <MESSAGE value="第6次提交" />
     <MESSAGE value="第7次提交" />
@@ -893,7 +888,8 @@
     <MESSAGE value="第1次提交" />
     <MESSAGE value="第2次提交" />
     <MESSAGE value="第3次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第3次提交" />
+    <MESSAGE value="第4次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第4次提交" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

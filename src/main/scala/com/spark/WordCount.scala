@@ -14,6 +14,7 @@ object WordCount {
 
       word.foreach(println)
 
+
 //      sc.textFile("/home/atguigu/wordcount.txt").flatMap(_.split(" ")).map((_, 1)).reduceByKey(_ + _).saveAsTextFile("/home/atguigu/sad55fdlv54")
 
 
